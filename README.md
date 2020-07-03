@@ -1,1 +1,1 @@
-"# DyCapture" 
+DyCapture 抖音9.1.1版本禁抓包的Xposed模块，其他版本没有测试，在JustTrustMe基础上添加hook类重新编译
